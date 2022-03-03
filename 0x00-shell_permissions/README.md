@@ -1,1 +1,1 @@
-change current user to betty
+script that prints username of current user
