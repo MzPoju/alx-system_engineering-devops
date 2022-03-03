@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 755 dirname
+chmod 755 dirname
