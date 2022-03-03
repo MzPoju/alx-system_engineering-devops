@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ugo+x dirname
+chmod -R 644 755 dirname
