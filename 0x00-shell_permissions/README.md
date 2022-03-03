@@ -1,1 +1,1 @@
-script that adds execute permission to group,owner and others to file hello
+script that gives no permission to group, no permission to owner and all permissions to other users
