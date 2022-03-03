@@ -1,1 +1,1 @@
-script that all the groups the current user is part of
+script that changes owner of file hello to owner betty
