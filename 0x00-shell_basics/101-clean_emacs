@@ -1,4 +1,2 @@
 #!/bin/bash
 rm *~
-#!/bin/bash
-find . -type f -name "[A-Z]*" -exec mv  {} /tmp/u
